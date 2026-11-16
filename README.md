@@ -12,13 +12,9 @@ Hola, soy estudiante del ciclo formativo de Administración de Sistemas Informá
 
 Tres cosas que quiero aprender en Proyecto Intermodular:
 
-
-
 1. Aprender a desarrollar un proyecto informático completo, desde la planificación hasta su puesta en marcha.
-
-2\. Mejorar mis conocimientos sobre redes y sistemas, aplicándolos a situaciones reales.
-
-3\. Aprender a trabajar en equipo y resolver problemas técnicos, buscando soluciones eficientes.
+2. Mejorar mis conocimientos sobre redes y sistemas, aplicándolos a situaciones reales.
+3. Aprender a trabajar en equipo y resolver problemas técnicos, buscando soluciones eficientes.
 
 
 
